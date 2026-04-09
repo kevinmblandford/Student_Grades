@@ -1,0 +1,15 @@
+C:\Users\widge\Projects\Student_Grades\bin\Debug\net10.0\Student_Grades.exe
+C:\Users\widge\Projects\Student_Grades\bin\Debug\net10.0\Student_Grades.deps.json
+C:\Users\widge\Projects\Student_Grades\bin\Debug\net10.0\Student_Grades.runtimeconfig.json
+C:\Users\widge\Projects\Student_Grades\bin\Debug\net10.0\Student_Grades.dll
+C:\Users\widge\Projects\Student_Grades\bin\Debug\net10.0\Student_Grades.pdb
+C:\Users\widge\Projects\Student_Grades\obj\Debug\net10.0\Student_Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\widge\Projects\Student_Grades\obj\Debug\net10.0\Student_Grades.AssemblyInfoInputs.cache
+C:\Users\widge\Projects\Student_Grades\obj\Debug\net10.0\Student_Grades.AssemblyInfo.cs
+C:\Users\widge\Projects\Student_Grades\obj\Debug\net10.0\Student_Grades.csproj.CoreCompileInputs.cache
+C:\Users\widge\Projects\Student_Grades\obj\Debug\net10.0\Student_Grades.sourcelink.json
+C:\Users\widge\Projects\Student_Grades\obj\Debug\net10.0\Student_Grades.dll
+C:\Users\widge\Projects\Student_Grades\obj\Debug\net10.0\refint\Student_Grades.dll
+C:\Users\widge\Projects\Student_Grades\obj\Debug\net10.0\Student_Grades.pdb
+C:\Users\widge\Projects\Student_Grades\obj\Debug\net10.0\Student_Grades.genruntimeconfig.cache
+C:\Users\widge\Projects\Student_Grades\obj\Debug\net10.0\ref\Student_Grades.dll
